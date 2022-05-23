@@ -1,0 +1,66 @@
+2022-05-01 23:58:52,294 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-05-01 23:58:57,854 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-01 23:58:57,915 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on currency
+2022-05-01 23:58:58,188 [main] INFO .\src\test\resources\input\log4j.properties - User chose Euro currency
+2022-05-01 23:58:58,236 [main] INFO .\src\test\resources\input\log4j.properties - Currency value changed to Euro
+2022-05-01 23:58:58,503 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change PASSED
+2022-05-02 00:55:22,093 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-05-02 00:55:24,632 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-02 00:55:24,695 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on currency
+2022-05-02 00:55:25,111 [main] INFO .\src\test\resources\input\log4j.properties - User chose Euro currency
+2022-05-02 00:55:25,147 [main] INFO .\src\test\resources\input\log4j.properties - Currency value changed to Euro
+2022-05-02 00:55:25,307 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change PASSED
+2022-05-02 22:55:28,520 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-05-02 22:55:34,293 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-02 22:55:34,331 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on currency
+2022-05-02 22:55:34,637 [main] INFO .\src\test\resources\input\log4j.properties - User chose Euro currency
+2022-05-02 22:55:34,676 [main] INFO .\src\test\resources\input\log4j.properties - Currency value changed to Euro
+2022-05-02 22:55:34,803 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change PASSED
+2022-05-02 23:10:48,384 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-05-02 23:10:50,805 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-02 23:10:50,866 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on currency
+2022-05-02 23:10:51,708 [main] INFO .\src\test\resources\input\log4j.properties - User chose Euro currency
+2022-05-02 23:10:51,736 [main] INFO .\src\test\resources\input\log4j.properties - Currency value changed to Euro
+2022-05-02 23:10:52,043 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change PASSED
+2022-05-02 23:33:34,095 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-05-02 23:33:36,343 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-02 23:33:36,410 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on currency
+2022-05-02 23:33:36,700 [main] INFO .\src\test\resources\input\log4j.properties - User chose Euro currency
+2022-05-02 23:33:36,759 [main] INFO .\src\test\resources\input\log4j.properties - Currency value changed to Euro
+2022-05-02 23:33:37,232 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change PASSED
+2022-05-02 23:33:37,270 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-05-02 23:33:38,775 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-02 23:33:38,936 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays UNDEFINED
+2022-05-03 00:05:19,759 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-05-03 00:05:22,923 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-03 00:05:22,992 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on currency
+2022-05-03 00:05:23,258 [main] INFO .\src\test\resources\input\log4j.properties - User chose Euro currency
+2022-05-03 00:05:23,308 [main] INFO .\src\test\resources\input\log4j.properties - Currency value changed to Euro
+2022-05-03 00:05:23,626 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change PASSED
+2022-05-03 00:05:23,640 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-05-03 00:05:25,815 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-03 00:05:26,110 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on shopping cart
+2022-05-03 00:05:26,276 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays FAILED
+2022-05-03 00:33:12,879 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-05-03 00:33:15,827 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-03 00:33:15,866 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on currency
+2022-05-03 00:33:16,090 [main] INFO .\src\test\resources\input\log4j.properties - User chose Euro currency
+2022-05-03 00:33:16,127 [main] INFO .\src\test\resources\input\log4j.properties - Currency value changed to Euro
+2022-05-03 00:33:16,446 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change PASSED
+2022-05-03 00:33:16,458 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-05-03 00:33:18,734 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-03 00:33:18,913 [main] INFO .\src\test\resources\input\log4j.properties - User clicked on shopping cart
+2022-05-03 00:33:18,944 [main] INFO .\src\test\resources\input\log4j.properties - “Your shopping cart is empty!” message is displayed
+2022-05-03 00:33:19,283 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays PASSED
+2022-05-03 00:55:45,084 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart started
+2022-05-03 00:55:47,507 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-03 00:55:47,697 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-05-03 00:55:47,724 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison started
+2022-05-03 00:55:49,174 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-03 00:55:49,330 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Product Comparison UNDEFINED
+2022-05-03 00:55:49,339 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list started
+2022-05-03 00:55:50,761 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-03 00:55:50,909 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Adding an item to Wish list UNDEFINED
+2022-05-03 00:55:50,919 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is 2000 started
+2022-05-03 00:55:52,792 [main] INFO .\src\test\resources\input\log4j.properties - User is on the HomePage
+2022-05-03 00:55:52,908 [main] INFO .\src\test\resources\input\log4j.properties - Scenario Validate the price of MacBook Pro is 2000 UNDEFINED
